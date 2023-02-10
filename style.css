@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+  font-family: 'Pacifico', cursive;
+}
+
+.color__txt {
+  color: rgb(153, 50, 43);
+}
